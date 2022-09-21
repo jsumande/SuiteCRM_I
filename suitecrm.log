@@ -1,0 +1,9 @@
+Tue Sep 20 21:05:03 2022 [10712][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Tue Sep 20 21:05:03 2022 [10712][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Sep 20 21:05:03 2022 [10712][1][FATAL] Email address save error
+Tue Sep 20 21:05:29 2022 [10712][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Sep 20 21:05:29 2022 [10712][1][SECURITY] Setting logger_file_ext to '.log'.
+Tue Sep 20 21:05:29 2022 [10712][1][SECURITY] Setting logger_file_name to ''.
+Tue Sep 20 21:05:29 2022 [10712][1][SECURITY] Log file extension can't be blank.
+Tue Sep 20 21:05:30 2022 [10712][1][SECURITY] Setting logger_file_name to ''.
+Tue Sep 20 21:05:30 2022 [10712][1][SECURITY] Log file extension can't be blank.
